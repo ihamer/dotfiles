@@ -1,3 +1,4 @@
+#/bin/bash
 files=( .inputrc .bash_profile .bashrc .vimrc .vim )
 
 for f in "${files[@]}"; do
