@@ -1,2 +1,2 @@
 # dotfiles
-Dot files
+After cloning, run .dotfiles/bootstrap.sh
